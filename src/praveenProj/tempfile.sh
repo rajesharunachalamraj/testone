@@ -1,1 +1,1 @@
-echo "Hello world Java"
+echo "Hello world Java test "
